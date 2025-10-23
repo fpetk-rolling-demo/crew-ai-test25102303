@@ -1,0 +1,6 @@
+
+analyze_techdocs_coverage:
+  description: |-
+    Analyze the coverage techdocs in the backstage server.
+  expected_output: "Use the the analyze-techdocs-coverage tool to get the percentage of techdocs coverage in the backstage server."
+  agent: "techdocs_analyst"

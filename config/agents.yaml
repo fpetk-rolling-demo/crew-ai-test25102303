@@ -1,0 +1,14 @@
+
+techdocs_analyst:
+  role: "TechDocs Analyst"
+  goal: "Analyze the techdocs coverage in the backstage server"
+  
+  backstory: "An analyst agent that is able to analyze the techdocs coverage in the backstage server."
+  
+  model: ""
+  llmAPIURL: ""
+  llmAPIKeyEnvVar: ""
+  verbose: true
+  tools:
+    - "backstage_mcp_tools"
+    
